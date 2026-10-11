@@ -1,0 +1,21 @@
+scenario,item,policy,stockout %,fill %,avg inventory
+Fixed 2-wk lead time,5,No safety stock,44.29,98.406,753.879
+Fixed 2-wk lead time,5,With safety stock,4.187,99.894,876.368
+Fixed 2-wk lead time,44,No safety stock,45.836,98.363,1201.25
+Fixed 2-wk lead time,44,With safety stock,4.19,99.874,1415.168
+Fixed 2-wk lead time,48,No safety stock,51.864,98.719,2073.973
+Fixed 2-wk lead time,48,With safety stock,4.358,99.939,2308.372
+Fixed 2-wk lead time,12,No safety stock,49.171,98.666,2805.673
+Fixed 2-wk lead time,12,With safety stock,4.319,99.913,3177.924
+Fixed 2-wk lead time,15,No safety stock,49.738,98.607,3563.009
+Fixed 2-wk lead time,15,With safety stock,4.333,99.9,4041.427
+Variable lead time 1-3 wks,5,No safety stock,41.291,87.395,1006.996
+Variable lead time 1-3 wks,5,With safety stock,16.524,89.367,1117.172
+Variable lead time 1-3 wks,44,No safety stock,42.218,87.351,1605.552
+Variable lead time 1-3 wks,44,With safety stock,16.457,89.442,1796.152
+Variable lead time 1-3 wks,48,No safety stock,45.759,87.506,2795.956
+Variable lead time 1-3 wks,48,With safety stock,16.702,88.999,3009.872
+Variable lead time 1-3 wks,12,No safety stock,44.326,87.47,3779.594
+Variable lead time 1-3 wks,12,With safety stock,16.657,89.105,4113.854
+Variable lead time 1-3 wks,15,No safety stock,44.425,87.459,4789.996
+Variable lead time 1-3 wks,15,With safety stock,16.591,89.133,5221.364

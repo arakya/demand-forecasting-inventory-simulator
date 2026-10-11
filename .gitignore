@@ -1,0 +1,8 @@
+# Raw Kaggle data: not redistributable, download it yourself (see README)
+data/
+
+*.pkl
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.zip
